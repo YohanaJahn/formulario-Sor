@@ -76,15 +76,4 @@ function formatarPreco(preco) {
 .resultado {
   background-color: rgb(172, 127, 72);
 }
-.v-enter-active,
-.v-leave-active{
-  transition: opacity 1s ease;
-}
-
-.v.enter-from {
-  opacity: 0;
-}
-.v-enter-to {
-  opacity: 1;
-}
 </style>
